@@ -43,7 +43,7 @@
 ---
 
 ## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=your-username&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?YasirAmmar55&theme=tokyonight)
 
 ---
 
