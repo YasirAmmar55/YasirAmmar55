@@ -2,7 +2,7 @@
 <h3 align="center">MERN Stack Developer | Real-Time Web Apps</h3>
 
 # 💫 About Me:
-💻 I build full-stack web applications using MERN stack?<br>🔥 Interested in real-time apps (Socket.io, WebRTC)<br>🎯 Currently improving my problem-solving & DSA skills<br>📫 Reach me at: yasirgch202205@gmail.com
+💻 I build full-stack web applications using MERN stack?<br>🔥 Interested in real-time apps (Socket.io, WebRTC)<br>🎯 Currently improving my problem-solving <br>📫 Reach me at: yasirgch202205@gmail.com
 
 
 ## 🌐 Socials:
